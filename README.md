@@ -5,7 +5,6 @@ Skills: Pen Testing | Incident Response | Cloud Security | Risk Mitigation
 Tools: Kali Linux, Metasploit, Burp Suite, SIEMs, Python
 
 Let’s collaborate to make the digital world safer. Code. Secure. Repeat.
-## 🤳 Connect With Me
 
 ## ⚠️ Vulnerability Management Projects
 
@@ -22,6 +21,8 @@ Let’s collaborate to make the digital world safer. Code. Secure. Repeat.
 [<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+## 🤳 Connect With Me
 
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
