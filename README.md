@@ -27,7 +27,7 @@ Let’s collaborate to make the digital world safer. Code. Secure. Repeat.
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
 [instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/___________
+[linkedin]: https://www.linkedin.com/in/wisdom-honu-/
 
 
 
