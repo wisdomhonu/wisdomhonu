@@ -2,6 +2,7 @@
 Super Passionate about threat hunting, penetration testing, and securing systems. I break things to fix them—proactively uncovering vulnerabilities to build robust defenses.
 
 Skills: Pen Testing | Incident Response | Cloud Security | Risk Mitigation
+
 Tools: Kali Linux, Metasploit, Burp Suite, SIEMs, Python
 
 Let’s collaborate to make the digital world safer. Code. Secure. Repeat.
